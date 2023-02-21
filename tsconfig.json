@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir" : "dist",
+        "noEmitOnError" : false
+    },
+    "files" : [
+        "src/main.ts"
+    ]
+}
